@@ -1,4 +1,4 @@
-In short, this is a Streamlit web app that creates a RAG (Retrieval-Augmented Generation) chatbot using PDFs and an Ollama LLM. Here's a concise breakdown:
+This is a Streamlit web app that creates a RAG (Retrieval-Augmented Generation) chatbot using PDFs and an Ollama LLM. Here's a concise breakdown:
 
 Load PDFs – Reads all PDF files in a data folder.
 
