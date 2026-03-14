@@ -4,7 +4,7 @@ Load PDFs – Reads all PDF files in a data folder.
 
 Split Text – Breaks PDF content into smaller chunks for better processing.
 
-Create Embeddings & Vectorstore – Converts chunks into vector embeddings using HuggingFaceEmbeddings and stores them in FAISS for fast similarity search.
+Create Embeddings & Vectorstore – Converts chunks into vector embeddings using HuggingFaceEmbeddings and stores them in FAISS.
 
 Load Vectorstore – Loads the saved vector database for retrieval.
 
